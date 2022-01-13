@@ -144,6 +144,7 @@ input, select, textarea {
 			body, input, select, textarea {
 				font-size: 12pt;
 			}
+			
 
 		}
 
@@ -229,6 +230,7 @@ input, select, textarea {
 	h6 {
 		font-size: 0.7em;
 	}
+	
 
 	@media screen and (max-width: 736px) {
 
@@ -1065,7 +1067,7 @@ input, select, textarea {
 		}
 
 		@media screen and (max-width: 980px) {
-
+           
 			.row {
 				display: flex;
 				flex-wrap: wrap;
@@ -2413,7 +2415,7 @@ input, select, textarea {
 		.image.left {
 			float: left;
 			margin: 0 1.5em 1em 0;
-			top: 0.25em;
+			/* top: 0.25em; */
 		}
 
 		.image.right {
@@ -3322,8 +3324,9 @@ input, select, textarea {
 				}
 
 				.statistics li strong, .statistics li b {
-					font-size: 1.5em;
+					font-size: 1.3em;
 					padding-left: 15px;
+					padding-top: 4 px;
 				}
 				li svg{
 					
