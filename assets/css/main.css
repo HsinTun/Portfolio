@@ -3168,6 +3168,7 @@ input, select, textarea {
 				display: none;
 			}
 			.svg2{
+			
 				display: block;
 				
 				
@@ -3489,7 +3490,7 @@ input, select, textarea {
 			padding: 0.65em;
 			border-radius: 100%;
 			border: solid 1px;
-			margin-top: -100%;
+			margin-top: -120%;
 		}
 
 			.spotlight .image img {
