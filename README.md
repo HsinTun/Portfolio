@@ -1,2 +1,2 @@
 # Portfolio
-https://hsintun.github.io/Portfolio/
+https://hsintun.github.io/Portfolio/index.html
